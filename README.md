@@ -42,7 +42,7 @@ User Speech    →   ASR  →   LLM  →   TTS  →   AI Voice Response
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nazhifkojaz/temanBicara.git
    cd temanBicara
    ```
 
